@@ -6,3 +6,10 @@
 5. [Orchestrating the Cloud with Kubernetes](https://youtu.be/VV705la7RbQ?si=1F1NsUB2eWWYjVDw)
 6. [Managing Deployments Using Kubernetes Engine]()
 7. [Cloud Run Functions: Qwik Start - Console]()
+
+*Deploy Without Limits*
+1. [Cloud Run Functions: Qwik Start - Command Line](https://youtu.be/j56NWOm8cmM?si=OE2LMuogEdRYUt53)
+2. [Build a Serverless App with Cloud Run that Creates PDF Files](https://youtu.be/j5oMGYpFxUI?si=yZd4cw2IEimVs4wG)
+3. [Cloud Run Canary Deployments]()
+4. [Build a Resilient, Asynchronous System with Cloud Run and Pub/Sub](https://youtu.be/-t8-RUhEWCg?si=MPLxG8IdRFXzl-nA)
+5. [Continuous Delivery with Google Cloud Deploy]()
