@@ -15,3 +15,9 @@ Skills Boost Arcade Trivia July 2025 Week 3
 2. [Google Workspace Admin: Getting Started](https://youtu.be/Ao9rcAthJjQ?si=bZcRp3S48q9u_3O5)
 3. [Google Workspace Admin: Super Admin Account Recovery]()
 4. [Skills Boost Arcade Trivia July 2025 Week 3](https://youtu.be/0E3x1RtGoy0?si=tE_fAvbXFBug0dC0)
+
+Skills Boost Arcade Trivia July 2025 Week 4
+1. [Google Workspace Admin: Provisioning](https://youtu.be/6UnaaouVEi0?si=PiIi88VsXhcytzxU)
+2. [Google Workspace Admin: Managing Google Meet](https://youtu.be/zQz0tQcmSTA?si=fgNru9n3_jiNiQwc)
+3. [Connect and Configure Data for your AppSheet App](https://youtu.be/QyPhNcRy9Kg?si=kJwW3TwtKzy5JL6L)
+4. [Skills Boost Arcade Trivia July 2025 Week 4](https://youtu.be/QyPhNcRy9Kg?si=YssJ28qe0xfO68G1)
